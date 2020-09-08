@@ -56,8 +56,8 @@ Note: If you don’t find your language but would like to help with translation,
 *   **Variables / Placeholders:** Are easily identified by the following format: %%text%% You should never translate a variable and Crowdin does try to highlight them green but is not perfect. Strings should include all variables included in the original string and make sure you don’t add spaces where they do not belong!
 *   **Multi-Line Translations:** Some translations can span over several lines, so make sure you don't remove these lines when translating.
 *   **Names & Titles:**
-    *   **App name**: **STOCARD** SHOULD NOT BE TRANSLATED and also keep the Latin letters
-    *   **App features**: **Stocard Pay** - should remain like this
+    *   **App name** : **STOCARD** SHOULD NOT BE TRANSLATED and also keep the Latin letters
+    *   **App features** : **Stocard Pay** - should remain like this
 
     **Note**: app/iOS/Android features (e.g touch ID, face ID, wallet, Stocard card assistant) to be adapted to each language - if Apple keeps them in English, please do the same. If English terms are not well known, please translate them.
 
