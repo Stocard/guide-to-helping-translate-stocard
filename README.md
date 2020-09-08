@@ -34,7 +34,7 @@ Note: If you don’t find your language but would like to help with translation,
 
 *   **Use a friendly tone:**
 *   **Be Consistent:** It's very easy with Crowdin to check how words have been used before. Just double click on that word, and select ‘Search TM’ and in the panel on the right-hand side will appear all instances of that word and the corresponding translations.
-*   **Context and screenshots: **Most of the time, right below the English text should be a screenshot from the app and/or short context explanation. Please use them to help you translate.
+*   **Context and screenshots:** Most of the time, right below the English text should be a screenshot from the app and/or short context explanation. Please use them to help you translate.
 *   **General guidelines:** In case you are lacking information to give an appropriate translation, use these:
     *   Singular over Plural
     *   Masculine over Feminine
