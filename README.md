@@ -32,32 +32,32 @@ Note: If you don’t find your language but would like to help with translation,
 
 
 
-*   **Use a friendly tone: **
-*   **Be Consistent: **It's very easy with Crowdin to check how words have been used before. Just double click on that word, and select ‘Search TM’ and in the panel on the right-hand side will appear all instances of that word and the corresponding translations.
+*   **Use a friendly tone:**
+*   **Be Consistent:** It's very easy with Crowdin to check how words have been used before. Just double click on that word, and select ‘Search TM’ and in the panel on the right-hand side will appear all instances of that word and the corresponding translations.
 *   **Context and screenshots: **Most of the time, right below the English text should be a screenshot from the app and/or short context explanation. Please use them to help you translate.
-*   **General guidelines: **In case you are lacking information to give an appropriate translation, use these:
+*   **General guidelines:** In case you are lacking information to give an appropriate translation, use these:
     *   Singular over Plural
     *   Masculine over Feminine
     *   General over Specific
     *   **Informal over Formal**
     *   Most probable outcome
-*   **Use Comments: **The Crowdin translation interface has a Comment section at the side. Often other language teams will have already put useful advice or suggestions there. Read them.
-*   **Ask for clarifications: **if unsure, please use the comment sections to ask for more information. Be sure to tag `@catz` in the comment so we can receive the notification and respond as soon as possible.
-*   **No translation can be better than a bad translation: **If you're not sure about a translation, either take the time to find the best solution or just leave it to someone else.
-*   **Reorder words: **Do not forget to rearrange the order of the words if it is grammatically correct in your language.
-*   **Localization: **If a word or sentence does not translate well, feel free to apply a suitable non-direct translation, another option is if an English word is commonly known/used in your language, feel free to keep that word English (e.g. top up).
-*   **Voting: **If everything has already been translated in a certain language, vote! There is always the option to vote for strings - especially if you think that the unused translations sound better.
+*   **Use Comments:** The Crowdin translation interface has a Comment section at the side. Often other language teams will have already put useful advice or suggestions there. Read them.
+*   **Ask for clarifications:** if unsure, please use the comment sections to ask for more information. Be sure to tag `@catz` in the comment so we can receive the notification and respond as soon as possible.
+*   **No translation can be better than a bad translation:** If you're not sure about a translation, either take the time to find the best solution or just leave it to someone else.
+*   **Reorder words:** Do not forget to rearrange the order of the words if it is grammatically correct in your language.
+*   **Localization:** If a word or sentence does not translate well, feel free to apply a suitable non-direct translation, another option is if an English word is commonly known/used in your language, feel free to keep that word English (e.g. top up).
+*   **Voting:** If everything has already been translated in a certain language, vote! There is always the option to vote for strings - especially if you think that the unused translations sound better.
 
 **Don’ts**
 
 
 
-*   **Machine Translation: **Computer translation has come a long way, but it won't give you a quality translation and for many languages, it will give you complete rubbish.
-*   **Variables / Placeholders: **Are easily identified by the following format: %%text%% You should never translate a variable and Crowdin does try to highlight them green but is not perfect. Strings should include all variables included in the original string and make sure you don’t add spaces where they do not belong!
-*   **Multi-Line Translations: **Some translations can span over several lines, so make sure you don't remove these lines when translating.
+*   **Machine Translation:** Computer translation has come a long way, but it won't give you a quality translation and for many languages, it will give you complete rubbish.
+*   **Variables / Placeholders:** Are easily identified by the following format: %%text%% You should never translate a variable and Crowdin does try to highlight them green but is not perfect. Strings should include all variables included in the original string and make sure you don’t add spaces where they do not belong!
+*   **Multi-Line Translations:** Some translations can span over several lines, so make sure you don't remove these lines when translating.
 *   **Names & Titles:**
-    *   **App name**: **STOCARD - **SHOULD NOT BE TRANSLATED and also keep the Latin letters
-    *   **App features: **Stocard Pay - should remain like this
+    *   **App name**: **STOCARD** SHOULD NOT BE TRANSLATED and also keep the Latin letters
+    *   **App features**: **Stocard Pay** - should remain like this
 
     **Note**: app/iOS/Android features (e.g touch ID, face ID, wallet, Stocard card assistant) to be adapted to each language - if Apple keeps them in English, please do the same. If English terms are not well known, please translate them.
 
